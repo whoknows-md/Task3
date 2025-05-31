@@ -15,3 +15,23 @@ $ Attachments:
 $ NOTE 
    -- I will try to debug the issues as soon as possible
    -- Else I will try other alternative solutions
+
+$ Fixes :
+   -- again I reinstalled the openvas
+   -- it took time for installation and setup
+   -- waited until all process gets completed
+$ Completion of Task : 
+   -- the feed status showed "current" status
+   -- checked with "scan config" and it had the required xml files
+   -- created new target with my local machine IP and named as 'Kali Linux'
+   -- named the scan as "System Scan"
+   -- gave "full and fast" scan
+   -- scanned the target
+   -- no Vulnerabilities found 
+$ Attachments :
+   -- shared the screenshot of the scan report in folder named "System Scan Screenshot"
+
+$ COMPLETED TASK 3
+
+   
+   
